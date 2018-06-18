@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/model/bean/Emprestimo.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/view/JanelaRealizarEmprestimo.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/model/bean/Livro.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/view/JanelaCadastroLivro.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/model/dao/EditoraDAO.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/model/dao/EmprestimoDAO.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/model/dao/AlunoDAO.java</file>
+            <file>file:/C:/Users/gabri/OneDrive/Música/Documentos/NetBeansProjects/Biblioteca/src/view/JanelaPrincipal.java</file>
+        </group>
+    </open-files>
+</project-private>
